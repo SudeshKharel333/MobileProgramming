@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87894098726",
+    "project_id": "laxman-cbc1c",
+    "storage_bucket": "laxman-cbc1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87894098726:android:ae6685929aa61ce08df7e7",
+        "android_client_info": {
+          "package_name": "com.example.laxman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8IzrSHxvJO8379v83WK6nlAIicLFtHzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
